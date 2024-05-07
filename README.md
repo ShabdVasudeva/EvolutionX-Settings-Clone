@@ -11,7 +11,7 @@ Unleash the powers and customisations of your ordinary Settings app.....
 
 ## Installation
 
-Simply install the apk file from the above link and enjoy the feel of EvolutionX.
+Simply install the apk file from the above link and enjoy the feel of LineageOS.
 
 
 
